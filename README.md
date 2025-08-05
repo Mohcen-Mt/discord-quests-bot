@@ -19,19 +19,6 @@ Before running the bot, you need to edit the `config.ts` file and fill in the re
   - **Voice Channel ID**: The voice channel used for play activity quests/streams.
   - **Role ID**: The role required to join the voice channel.
   - **Log Channel ID**: The log channel for bot activities.
-  - **Join Message**:
-    ```
-    ## أنت لست داخل السيرفر
-    - **للاستفادة من البوت، يجب أن تنضم إلى السيرفر بالحساب الذي تريد إكمال المهمة به.**
-    - **ملاحظة: البوت مجاني 100%.**
-
-    ## You are not in the server
-    - **To use the bot, you need to join the server with the account you want to complete the task with.**
-    - **Note: The bot is 100% free.**
-
-    - ** https://discord.gg/39c2c3jVbN **
-    ```
-
 Ensure all required fields are properly filled before starting the bot.
 
 ### 2. Accepting Quests Manually (Mobile Only)
@@ -58,21 +45,3 @@ The bot will track your progress and update accordingly.
 - Ensure your configuration is correctly set up before running the bot.
 - The code is not perfect or 100% professional, and improvements may be needed.
 - There may be updates in the future to enhance functionality and fix issues.
-
-For any issues or further assistance, feel free to reach out to the support team.
-
-## Support & Demo Server
-You can test the bot and get support in our official server: [Join Here](https://discord.gg/4WStuuHj39)
-
----
-
-## 🎨 Screenshots
-
-![image1](https://i.ibb.co/3JgHfFy/image.png)
-![image2](https://i.ibb.co/HTn49GG/image.png)
-![image3](https://i.ibb.co/chPF7zJ/image.png)
-![image4](https://i.ibb.co/yFSZtRmk/image.png)
-![image5](https://i.ibb.co/TqJZpqgT/image.png)
-![image6](https://i.ibb.co/4g01Rc8/image.png)
-
----
