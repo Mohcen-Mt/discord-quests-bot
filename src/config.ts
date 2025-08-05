@@ -74,18 +74,7 @@ export default {
         serverid: "947363468414160916", // Main server ID
         channelid: "1235946958611284069", // Voice channel ID required
         roleId: "1279032632859951185", // Role needed to participate
-        logChannel: "1247620593914740908", // Channel for internal logs
-
-        // Message shown when a user isn't in the server
-        joinMessage: `## انت مو داخل السيرفر
-- **عشان تستعمل البوت لازم تدخل السيرفر ب الحساب الي تبي تسوي فيه المهمة**
-- **ملاحظة البوت مجاني 100%**
-
-## You are not in the server
-- **To use the bot, you need to join the server with the account you want to complete the task with.**
-- **Note: The bot is 100% free.**
-
-- ** https://discord.gg/39c2c3jVbN **`
+        logChannel: "1247620593914740908", // Channel for internal logs`
     },
 
     // Webhook used for image uploads/logs (move to .env)
@@ -110,7 +99,6 @@ export default {
         active: true,
         buttons: [
             {
-                url: "https://youtu.be/eJoa4obHhng", // Tutorial or guide
                 emoji: "📺",
                 text: "How To Use"
             }
